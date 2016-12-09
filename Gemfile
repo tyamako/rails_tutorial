@@ -8,7 +8,7 @@ gem 'sprockets', '2.12.4'
 
 group :development, :test do
   gem 'sqlite3', '1.3.8'
-  gem 'rspec-rails', '2.13.1'
+  # gem 'rspec-rails', '2.13.1'
   gem 'pry-byebug'
   gem 'pry-rails'
   gem 'pry-doc'
